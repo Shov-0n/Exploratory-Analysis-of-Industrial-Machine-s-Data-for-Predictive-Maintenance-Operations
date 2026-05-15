@@ -1,0 +1,2 @@
+# Exploratory-Analysis-of-Industrial-Machine-s-Data-for-Predictive-Maintenance-Operations
+An ML-driven exploratory analysis of industrial machine sensor data for predictive maintenance. This project evaluates classification and forecasting models including SVM, Logistic Regression, Random Forest, ARIMA, and LSTM to identify optimal maintenance intervals, reduce downtime, and improve failure prediction accuracy using time-series data.
